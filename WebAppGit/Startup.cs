@@ -9,6 +9,9 @@ namespace WebAppGit
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
+            //promjena
+            //dva pouta
         }
     }
 }
